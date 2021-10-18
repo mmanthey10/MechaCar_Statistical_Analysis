@@ -30,6 +30,13 @@ The following image shows summary statistics for coils by manufacturing lot. Thi
 
 ## T-Tests on Suspension Coils
 
+Lot 1:
+<img width="434" alt="Screen Shot 2021-10-17 at 7 34 41 PM" src="https://user-images.githubusercontent.com/86746735/137650984-41e1733a-0c85-4317-863a-58caf4d0a190.png">
+
+Lot 2:
+
+Lot 3:
+
 ## Study Design - Mecha Car vs Competition
 
 ### Statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
