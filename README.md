@@ -37,6 +37,7 @@ Lot 2:
 <img width="434" alt="Screen Shot 2021-10-17 at 7 34 41 PM" src="https://user-images.githubusercontent.com/86746735/137651013-6a65da3a-ea22-4177-945e-bdccbc3393c3.png">
 
 Lot 3:
+<img width="432" alt="Screen Shot 2021-10-17 at 7 35 44 PM" src="https://user-images.githubusercontent.com/86746735/137651024-57d591ce-4532-4439-911a-1240ca36c0ca.png">
 
 ## Study Design - Mecha Car vs Competition
 
