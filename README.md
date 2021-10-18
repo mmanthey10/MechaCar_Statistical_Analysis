@@ -34,6 +34,7 @@ Lot 1:
 <img width="434" alt="Screen Shot 2021-10-17 at 7 34 41 PM" src="https://user-images.githubusercontent.com/86746735/137650984-41e1733a-0c85-4317-863a-58caf4d0a190.png">
 
 Lot 2:
+<img width="434" alt="Screen Shot 2021-10-17 at 7 34 41 PM" src="https://user-images.githubusercontent.com/86746735/137651013-6a65da3a-ea22-4177-945e-bdccbc3393c3.png">
 
 Lot 3:
 
