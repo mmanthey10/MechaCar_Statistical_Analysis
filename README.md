@@ -44,6 +44,15 @@ Lot 3:
 ### Statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 * What metric or metrics are you going to test?
+
+For consumers that are interested in how well the vehicles hold their value, I would look at resale value of the vehicles.
+
 * What is the null hypothesis or alternative hypothesis?
-* What statistical test would you use to test the hypothesis? And why?
-* What data is needed to run the statistical test?
+
+Null hypothesis is that the mean resale value of vehicles of the same class (i.e. sedan, SUV, or truck independently) are equal to that of competitors.
+
+Alternative hypothesis is that Mecha Car resale values holds higher than that of the competitions' vehicles.
+
+* What statistical test would you use to test the hypothesis and what data is needed? And why?
+
+I would gather data on resale value data across the industry, filter data to keep same vehicle types and mileage, and use the mean resale value of the vehciles to test my hypothesis.
