@@ -24,6 +24,10 @@ The image below shows the summary statistics for all coils. The summary shows th
 
 <img width="335" alt="Screen Shot 2021-10-17 at 7 29 00 PM" src="https://user-images.githubusercontent.com/86746735/137650752-fa27b32f-f5c7-4edf-a9ae-d70aab1dda3c.png">
 
+The following image shows summary statistics for coils by manufacturing lot. This image shows that lots one and two meets the requirements, however lot three does not.
+
+<img width="469" alt="Screen Shot 2021-10-17 at 7 31 43 PM" src="https://user-images.githubusercontent.com/86746735/137650869-9aa72b4e-2e53-4a8d-99db-fd6c0eae00d9.png">
+
 ## T-Tests on Suspension Coils
 
 ## Study Design - Mecha Car vs Competition
