@@ -8,7 +8,13 @@ Vehicle length and ground clearance provide the highest level of significance an
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 
+The slope of the linear model is considered non-zero as the dependent value is not determined by random chance or error.
+
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+The model's r-squared value is 0.7149 which falls between the 0 and 1 range can be used as probability metric to determine the likelihood of mpg.
+
+<img width="399" alt="Screen Shot 2021-10-17 at 6 57 04 PM" src="https://user-images.githubusercontent.com/86746735/137649704-18fa14c9-9587-4232-b298-53292c61c44f.png">
 
 ## Summary Statistics on Suspension Coils
 
